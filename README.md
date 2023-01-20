@@ -1,4 +1,4 @@
-# D3_Dashboard
+# Patient Management Dashboard
 This is a chart application using d3.js
 
-![alt text](https://github.com/AlphaGSNet/D3_Dashboard/blob/master/dashboard.jpg)
+![Dashboard screenshot](https://github.com/RA-Tech-Group/Patient-Management-Dashboard/blob/main/dashboard.jpg)
